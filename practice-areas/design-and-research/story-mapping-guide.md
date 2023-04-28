@@ -12,7 +12,8 @@ Story mapping is a way to tell stories and break them down into parts. It is a p
 - Story mapping helps to clarify overall project vision.
 
   - Story mapping builds shared understanding about the whole product or feature experience.
-  - Story mapping can be used to break down big stories without losing track of the big picture.
+
+    - Story mapping can be used to break down big stories without losing track of the big picture.
   - A story map can be used to prioritize based on outcomes, and to look at things holistically.
 - A story map can be used to formulate a release strategy that focuses on specific users and outcomes.
 
