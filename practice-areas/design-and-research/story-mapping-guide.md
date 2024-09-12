@@ -1,7 +1,6 @@
 ---
 title: Story Mapping Guide
 ---
-
 ## What it is
 
 Story mapping is a way to tell stories and break them down into parts. It is a practice for talking about who does what, and why. It's a way to focus discussions around who will use the product and what they'll do with it later, after delivery. A story map can be used for planning development strategy and releases.
@@ -34,8 +33,7 @@ Simply put, a story mapping practice is a series of conversations:
 
 ## Recommended Reading
 
--   Book: [_User Story Mapping_](http://shop.oreilly.com/product/0636920033851.do), by Jeff Patton
-
+-   Book: _[User Story Mapping](http://shop.oreilly.com/product/0636920033851.do)_, by Jeff Patton
 -   Video: [User Story Mapping with Jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM) (1 hour 56 minutes; a formal talk Jeff gave in Germany, covering the same content as his book)
 
 ## Challenges and Tips for Distributed Teams
